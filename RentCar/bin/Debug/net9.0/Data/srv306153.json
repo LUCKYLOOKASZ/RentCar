@@ -1,0 +1,22 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"srv306153"},
+{"type":"table","name":"losiek_project","database":"srv306153","data":
+[
+
+]
+}
+,{"type":"table","name":"titiUsers","database":"srv306153","data":
+[
+{"Id":"1","Role":"Admin","FullName":"root","UserName":"admin","Password":"admin","Email":"root@wp.pl","PhoneNumber":"211542000","Address":"św.filipa Kraków 7"},
+{"Id":"2","Role":"User","FullName":"Basia Potępiona","UserName":"basia","Password":"123","Email":"basiap@wp.pl","PhoneNumber":"211542001","Address":"św.filipa Kraków 7"},
+{"Id":"3","Role":"User","FullName":"Asia Łatwowierna","UserName":"asia","Password":"321","Email":"asial@wp.pl","PhoneNumber":"211542002","Address":"św.filipa Kraków 7"},
+{"Id":"4","Role":"User","FullName":"Krzych Riśter","UserName":"krzys","Password":"111","Email":"krzyse@wp.pl","PhoneNumber":"211542003","Address":"św.filipa Kraków 7"},
+{"Id":"5","Role":"User","FullName":"Laki Lukasz","UserName":"lukas","Password":"222","Email":"lakil@wp.pl","PhoneNumber":"211542004","Address":"św.filipa Kraków 7"},
+{"Id":"6","Role":"User","FullName":"Majkel Angelo","UserName":"miachal","Password":"333","Email":"majkela@wp.pl","PhoneNumber":"211542005","Address":"św.filipa Kraków 7"},
+{"Id":"7","Role":"User","FullName":"Mati Sandomierski","UserName":"mati","Password":"111222333","Email":"matis@wp.pl","PhoneNumber":"211542006","Address":"św.filipa Kraków 7"},
+{"Id":"9","Role":"User","FullName":"Łukasz Łośko","UserName":"lakiluk","Password":"lakiluk","Email":"luki@luki.pl","PhoneNumber":"123123123","Address":"Andrzeja Zauchy 11"},
+{"Id":"10","Role":"User","FullName":"sigma alfa","UserName":"Sigma","Password":"alfaaa","Email":"alfa@sigma.pl","PhoneNumber":"123123123","Address":"Św.filipa 2115"}
+]
+}
+]
