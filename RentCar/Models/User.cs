@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace RentCar.Models;
 
-[Table("titiUsers")]  // Mapowanie na tabelę w bazie danych
+[Table("titiUsers")]
 public class User
 {
     [Key]
